@@ -1,0 +1,15 @@
+,Company 1,Company 2,Company 3,Company 4,Company 5
+Demand,21070,43373,44044,20931,64867
+Sales,21070,0,67449,40899,0
+Market Share,0.11,0.22,0.23,0.11,0.33
+Marketing Expense,120000,320000,170000,100000,550000
+Marketing Expense Share,0.10,0.25,0.13,0.08,0.44
+Company Sales (currency),716380,0,2090919,1349667,2432513
+Delivered Mfg Cost,308244,0,674784,282101,1083362
+Gross Margin,408136,0,1416135,1067566,1349150
+Company Marketing Exp,120000,320000,170000,100000,550000
+Import Tariffs,0,0,0,0,0
+Contribution Margin,288136,-320000,1246134,967566,799151
+Price,34.00,32.90,31.00,33.00,37.50
+Price Percentage,1.01,0.98,0.92,0.98,1.11
+Quality,0.91,0.93,1.10,0.82,1.24
